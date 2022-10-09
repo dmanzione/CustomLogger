@@ -1,0 +1,4 @@
+Log [logLevel=warning, timestamp=2022-07-27T18:43:40.061, message=test logger]
+Log [logLevel=error, timestamp=2022-07-27T18:43:40.165, message=class java.lang.ArithmeticException]
+Log [logLevel=warning, timestamp=2022-07-27T18:43:48.191, message=test logger]
+Log [logLevel=error, timestamp=2022-07-27T18:43:48.255, message=class java.lang.ArithmeticException]
